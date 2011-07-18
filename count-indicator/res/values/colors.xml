@@ -1,0 +1,4 @@
+<resources>
+    <color name="selected_item">#B4D109</color>
+    <color name="unselected_item">#DDDDDD</color>
+</resources>

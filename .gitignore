@@ -1,0 +1,7 @@
+/out
+/gen
+/.idea/workspace.xml
+*.db4o
+*.db40
+*.db4O
+*.trace

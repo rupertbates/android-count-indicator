@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res/com.guardian.android.example"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <com.guardian.android.ui.CountIndicatorView
+            android:id="@+id/indicator"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            app:numberSelected="3"
+            app:numberOfItems="6"
+            app:itemSpacing="5"
+            app:radius="15"
+            android:padding="10dip"
+            android:background="@android:color/white"
+            android:onClick="click"/>
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello World, MyActivity"/>
+</LinearLayout>
+
