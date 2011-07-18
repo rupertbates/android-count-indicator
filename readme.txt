@@ -1,1 +1,0 @@
-An Android view class to show the number of selected items
